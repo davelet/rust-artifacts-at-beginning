@@ -1,0 +1,9 @@
+[submodule "flappy-donkey"]
+	path = flappy-donkey
+	url = https://github.com/davelet/flappy-donkey
+[submodule "json-picker"]
+	path = json-picker
+	url = https://github.com/davelet/json-picker
+[submodule "rust-lession-one"]
+	path = rust-lession-one
+	url = https://github.com/davelet/rust-lession-one

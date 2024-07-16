@@ -7,3 +7,4 @@
 [submodule "rust-lession-one"]
 	path = rust-lession-one
 	url = https://github.com/davelet/rust-lession-one
+	branch = lession

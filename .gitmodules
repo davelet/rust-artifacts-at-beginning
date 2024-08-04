@@ -8,3 +8,7 @@
 	path = rust-lession-one
 	url = https://github.com/davelet/rust-lession-one
 	branch = lession
+[submodule "dungeon-donkey"]
+	path = dungeon-donkey
+	url = https://github.com/davelet/dungeon-donkey
+	branch = develop-ecs

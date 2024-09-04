@@ -12,3 +12,6 @@
 	path = dungeon-donkey
 	url = https://github.com/davelet/dungeon-donkey
 	branch = develop-ecs
+[submodule "rough-blockchain-rustlang"]
+	path = rough-blockchain-rustlang
+	url = https://github.com/davelet/rough-blockchain-rustlang

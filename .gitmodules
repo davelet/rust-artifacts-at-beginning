@@ -15,3 +15,6 @@
 [submodule "rough-blockchain-rustlang"]
 	path = rough-blockchain-rustlang
 	url = https://github.com/davelet/rough-blockchain-rustlang
+[submodule "shecat"]
+	path = shecat
+	url = https://github.com/davelet/shecat.git

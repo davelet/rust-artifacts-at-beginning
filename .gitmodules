@@ -18,3 +18,6 @@
 [submodule "shecat"]
 	path = shecat
 	url = https://github.com/davelet/shecat.git
+[submodule "rust-wasm-game-of-life"]
+	path = rust-wasm-game-of-life
+	url = git@github.com:davelet/rust-wasm-game-of-life.git

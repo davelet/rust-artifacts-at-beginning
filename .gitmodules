@@ -21,3 +21,6 @@
 [submodule "rust-wasm-game-of-life"]
 	path = rust-wasm-game-of-life
 	url = git@github.com:davelet/rust-wasm-game-of-life.git
+[submodule "csv-cut"]
+	path = csv-cut
+	url = https://github.com/davelet/csv-cut

@@ -24,3 +24,10 @@
 [submodule "csv-cut"]
 	path = csv-cut
 	url = https://github.com/davelet/csv-cut
+[submodule "poker-of-ten-half"]
+	path = poker-of-ten-half
+	url = https://github.com/davelet/poker-of-ten-half
+[submodule "rubik-cube-restore"]
+	path = rubik-cube-restore
+	url = https://github.com/davelet/rubik-cube-restore
+	branch = develop

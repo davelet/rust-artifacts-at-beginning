@@ -31,3 +31,6 @@
 	path = rubik-cube-restore
 	url = https://github.com/davelet/rubik-cube-restore
 	branch = develop
+[submodule "git-intelligence-message"]
+	path = git-intelligence-message
+	url = https://github.com/davelet/git-intelligence-message
